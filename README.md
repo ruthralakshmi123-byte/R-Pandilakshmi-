@@ -54,4 +54,3 @@ After running the app, you will get a live dashboard in the browser with auto-re
 ## Author 
 # R-Pandilakshmi-
 
-Ruthra Lakshmi
